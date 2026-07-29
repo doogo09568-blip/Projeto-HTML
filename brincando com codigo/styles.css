@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div {
+    background-color:blue;
+    height:300px;
+    width:300px;
+}
+@media (max-width:600px){
+    div { 
+        background:red;
+    }
+}
+
+
