@@ -3,7 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
 }
-div {
+.minha-div {
     background-color:blue;
     height:300px;
     width:300px;
