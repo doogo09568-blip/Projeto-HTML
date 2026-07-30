@@ -11,6 +11,7 @@ h1 {
     height:300px;
     width:300px;
     margin-left:385px;
+    color:aqua;
 }
 @media (max-width:600px){
     div { 
